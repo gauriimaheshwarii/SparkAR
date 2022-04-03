@@ -1,2 +1,2 @@
 # SparkAR
-This repository contains all the Instagram filters made by me!
+This repository contains all the Instagram filters made by me! 🤷‍♀️
